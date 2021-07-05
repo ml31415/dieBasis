@@ -40,7 +40,8 @@ e. den Gegenstand
 
 f. einen abstimmungsfähigen Wortlaut
 
-g. Bei Satzungsänderungsanträgen zusätzlich: Gegenüberstellung von der aktuellen Satzung und der eingereichten Änderung
+g. Bei Satzungsänderungsanträgen zusätzlich: Gegenüberstellung von der aktuellen Satzung und der 
+eingereichten Änderung
 
 (3) Adresse:
 Anträge sind der Geschäftstelle oder, wenn nicht vorhanden, dem Vorstand des zuständigen

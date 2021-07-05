@@ -2,7 +2,10 @@
 
 ## vom 20. März 2021
 
-Aus Gründen Achtsamkeit gegenüber der deutschen Sprache und der besseren Lesbarkeit wird auf die gleichzeitige Verwendung männlicher und weiblicher oder diverser Sprachformen verzichtet. Sämtliche Personenbezeichnungen gelten gleichermaßen für alle Geschlechter. Sämtliche Personenbezeichnungen gelten gleichermaßen für alle Geschlechter.
+Aus Gründen Achtsamkeit gegenüber der deutschen Sprache und der besseren Lesbarkeit wird auf die 
+gleichzeitige Verwendung männlicher und weiblicher oder diverser Sprachformen verzichtet. Sämtliche 
+Personenbezeichnungen gelten gleichermaßen für alle Geschlechter. Sämtliche Personenbezeichnungen 
+gelten gleichermaßen für alle Geschlechter.
 
 #### § 1 Geltungsbereich
 
@@ -18,48 +21,68 @@ zur Aufstellung von Wahlbewerben für öffentliche Wahlen.
 
 (1) Wahlen erfolgen allgemein, allgemein frei und gleich.
 
-(2) Wahlen, die weder die Besetzung von Organen der Partei oder ihrer Gebietsverbände, noch mittelbar (Wahl von Vertretern) oder unmittelbar die Aufstellung von Wahlkandidaten betreffen sind, können offen durchgeführt werden, wenn kein Widerspruch erhoben wird.
+(2) Wahlen, die weder die Besetzung von Organen der Partei oder ihrer Gebietsverbände, noch mittelbar 
+(Wahl von Vertretern) oder unmittelbar die Aufstellung von Wahlkandidaten betreffen sind, können offen 
+durchgeführt werden, wenn kein Widerspruch erhoben wird.
 
-(3) Nach Versammlungsbeschluss sind auch elektronische Wahlen zulässig, soweit diese das Wahlgeheimnis, den Datenschutz und die Manipulations- und Dokumentationssicherheit gewährleisten und gesetzliche Bestimmungen nicht entgegenstehen. Die Bestimmungen dieser Wahlordnung sind dabei sinngemäß anzuwenden.
+(3) Nach Versammlungsbeschluss sind auch elektronische Wahlen zulässig, soweit diese das Wahlgeheimnis, 
+den Datenschutz und die Manipulations- und Dokumentationssicherheit gewährleisten und gesetzliche 
+Bestimmungen nicht entgegenstehen. Die Bestimmungen dieser Wahlordnung sind dabei sinngemäß anzuwenden.
 
 (4) Bei elektronischen Wahlen müssen folgende Voraussetzungen erfüllt sein:
 
-a. Der gesamte Prozess der Abstimmung von der Ausgabe der Abstimmgeräte bis zur Auswertung der Wahlen wird von Mitgliedern der Wahlorgane begleitet.
+a. Der gesamte Prozess der Abstimmung von der Ausgabe der Abstimmgeräte bis zur Auswertung der Wahlen 
+wird von Mitgliedern der Wahlorgane begleitet.
 
-b. Die Auszähl- und Auswertungseinheit befindet sich sichtbar im Versammlungsraum der Veranstaltung. Es ist sicherzustellen, dass diese nicht unbeobachtet von außen beeinflussbar ist.
+b. Die Auszähl- und Auswertungseinheit befindet sich sichtbar im Versammlungsraum der Veranstaltung. 
+Es ist sicherzustellen, dass diese nicht unbeobachtet von außen beeinflussbar ist.
 
-c. Das System muss bearbeitungsgeschützte Ergebnisprotokolle in Form von Ausdrucken oder Dateiprotokollen erzeugen.
+c. Das System muss bearbeitungsgeschützte Ergebnisprotokolle in Form von Ausdrucken oder 
+Dateiprotokollen erzeugen.
 
-d. Das ordnungsgemäße Zustandekommen des Wahlergebnisses muss während der Veranstaltung anonymisiert überprüfbar sein.
+d. Das ordnungsgemäße Zustandekommen des Wahlergebnisses muss während der Veranstaltung anonymisiert 
+überprüfbar sein.
 
 #### § 3 Ankündigung von Wahlen
 
-(1) Wahlen sind anzusetzen, wenn Neu- oder Nachwahlen satzungsgemäß vorgeschrieben sind oder wenn ein zulässiger Antrag auf die Durchführung von Neu- oder Nachwahlen bzw. ein zulässiger Abwahlantrag vorliegt. 
+(1) Wahlen sind anzusetzen, wenn Neu- oder Nachwahlen satzungsgemäß vorgeschrieben sind oder wenn ein 
+zulässiger Antrag auf die Durchführung von Neu- oder Nachwahlen bzw. ein zulässiger Abwahlantrag vorliegt. 
 
-(2) Turnusmäßige Neuwahlen dürfen frühestens zwei Monate vor dem Ende der laufenden Amtsperiode durchgeführt werden.
+(2) Turnusmäßige Neuwahlen dürfen frühestens zwei Monate vor dem Ende der laufenden Amtsperiode 
+durchgeführt werden.
 
 (3) Wahlen können nur stattfinden, wenn zur Wahl vorher satzungs- und fristgemäß eingeladen wurde.
 
-(4) Soweit die Wahlen nicht satzungsgemäß vorgeschrieben sind, bleibt es der Versammlung mit absoluter Mehrheit unbenommen, angekündigte Wahlen ganz oder teilweise von der Tagesordnung abzusetzen.
+(4) Soweit die Wahlen nicht satzungsgemäß vorgeschrieben sind, bleibt es der Versammlung mit absoluter 
+Mehrheit unbenommen, angekündigte Wahlen ganz oder teilweise von der Tagesordnung abzusetzen.
 
 #### § 4 Wahlorgane
 
-(1) Zur Durchführung einer oder mehrerer Wahlen bestimmt die Versammlung in offener Abstimmung die Wahlorgane Wahlleitung und Zählkommission.
+(1) Zur Durchführung einer oder mehrerer Wahlen bestimmt die Versammlung in offener Abstimmung die 
+Wahlorgane Wahlleitung und Zählkommission.
 
-(2) Die Mitglieder der Wahlorgane müssen nicht zwingend der Partei angehören. Wenn keine elektronischen Abstimmungsgeräte verwendet werden, kann die Wahlleitung bei Bedarf Wahlhelfer hinzuziehen. 
+(2) Die Mitglieder der Wahlorgane müssen nicht zwingend der Partei angehören. Wenn keine elektronischen 
+Abstimmungsgeräte verwendet werden, kann die Wahlleitung bei Bedarf Wahlhelfer hinzuziehen. 
 
-(3) Die Wahlleitung eröffnet und schließt die Wahlgänge, sie sorgt für einen ordnungsgemäßen Ablauf der Wahl und stellt das von der Zählkommision ermittelte Wahlergebnis fest. Die Wahlleitung informiert über das Wahlverfahren. Mitglieder der Wahlleitung sind nicht wählbar.
+(3) Die Wahlleitung eröffnet und schließt die Wahlgänge, sie sorgt für einen ordnungsgemäßen Ablauf der 
+Wahl und stellt das von der Zählkommision ermittelte Wahlergebnis fest. Die Wahlleitung informiert über 
+das Wahlverfahren. Mitglieder der Wahlleitung sind nicht wählbar.
 
-(4) Die Versammlung bestimmt die Größe der Zählkommission. Wer selbst für ein zu wählendes Parteiamt oder Mandat kandidiert, kann nicht der Zählkommission angehören. Nimmt ein Mitglied der Zählkommission eine Kandidatur an, scheidet es unmittelbar aus der Zählkommission aus.
+(4) Die Versammlung bestimmt die Größe der Zählkommission. Wer selbst für ein zu wählendes Parteiamt oder 
+Mandat kandidiert, kann nicht der Zählkommission angehören. Nimmt ein Mitglied der Zählkommission eine 
+Kandidatur an, scheidet es unmittelbar aus der Zählkommission aus.
 
-(5) Sollten zu viele Mitglieder der Zählkommission aufgrund einer Kandidatur ausscheiden, kann die Wahlleitung eine Nachbestimmung durchführen.
+(5) Sollten zu viele Mitglieder der Zählkommission aufgrund einer Kandidatur ausscheiden, kann die 
+Wahlleitung eine Nachbestimmung durchführen.
 
 #### § 5 Wahl für unterschiedliche Parteiämter oder Mandate
 
-(1) Wahlen für unterschiedliche Parteiämter oder Mandate finden in jeweils gesonderten Wahlgängen nacheinander statt. Die Versammlung kann entscheiden, dass Wahlgänge
-parallel als Gruppenwahl stattfinden können. Vor der Gruppenwahl kann ein Stimmungsbild eingeholt werden.
+(1) Wahlen für unterschiedliche Parteiämter oder Mandate finden in jeweils gesonderten Wahlgängen 
+nacheinander statt. Die Versammlung kann entscheiden, dass Wahlgänge parallel als Gruppenwahl 
+stattfinden können. Vor der Gruppenwahl kann ein Stimmungsbild eingeholt werden.
 
-(2) Bei einer Gruppenwahl ist eine gleichzeitige Wahlbewerbung auch dann möglich, wenn die gleichzeitige Annahme der zu wählenden Parteiämter und Mandate ausgeschlossen ist.
+(2) Bei einer Gruppenwahl ist eine gleichzeitige Wahlbewerbung auch dann möglich, wenn die gleichzeitige 
+Annahme der zu wählenden Parteiämter und Mandate ausgeschlossen ist.
 
 (3) Bei der Aufstellung der einzelnen Listenplätze von Wahlvorschlagslisten für öffentliche
 Wahlen ist analog zu verfahren. (Ausnahme: siehe § 6 Absatz 2)
@@ -68,12 +91,14 @@ Wahlen ist analog zu verfahren. (Ausnahme: siehe § 6 Absatz 2)
 
 (1) Wahlen für mehrere gleiche Parteiämter oder Mandate werden in der Regel als Gruppenwahl durchgeführt.
 
-(2) Bei der Aufstellung von Wahlvorschlagslisten für öffentliche Wahlen können nach einem entsprechenden Versammlungsbeschluss mehrere aufeinander folgende Listenplätze wie gleiche Mandate behandelt werden.
+(2) Bei der Aufstellung von Wahlvorschlagslisten für öffentliche Wahlen können nach einem entsprechenden 
+Versammlungsbeschluss mehrere aufeinander folgende Listenplätze wie gleiche Mandate behandelt werden.
 
 #### § 7 Wahlvorschläge
 
 (1) Jedes Parteimitglied kann im Vorfeld schriftlich dem Vorstand Wahlvorschläge unterbreiten
-oder sich selbst bewerben. Für Wahlgänge nach § 10 können nur wahlberechtigte Versammlungsteilnehmer Wahlvorschläge unterbreiten.
+oder sich selbst bewerben. Für Wahlgänge nach § 10 können nur wahlberechtigte Versammlungsteilnehmer 
+Wahlvorschläge unterbreiten.
 
 (2) Wenn eine vorgeschlagene Person in der Wahlversammlung selbst anwesend ist, kann
 sowohl der Wahlvorschlag als auch die Zustimmung des Kandidaten durch Zuruf erfolgen.
@@ -194,7 +219,8 @@ g. die anders als vom Wahlleitung vorgestellt abgegeben wurden.
 
 #### § 11 Weitere Wahlgänge und Stichwahlen
 
-Bleiben nach einem Wahlgang Parteiämter oder Mandate unbesetzt, kann durch Versammlungsbeschluss entweder
+Bleiben nach einem Wahlgang Parteiämter oder Mandate unbesetzt, kann durch Versammlungsbeschluss 
+entweder
 
 a. ein weiterer Wahlgang (nach den §§ 5 bis 8) aufgerufen,
 
