@@ -122,7 +122,7 @@ nichts anderes vorschreibt.
 (1) Die Partei hat das Ziel, sich überwiegend durch Mitgliedsbeiträge und Spenden zu finanzieren. 
 Einnahmenerzielung durch Vermögensverwaltung und unternehmerische Tätigkeit, die sich an den 
 Grundsätzen des ehrbaren Kaufmanns orientiert, ist erlaubt. Gleichwohl beantragen die Schatzmeister 
-jährlich die für die Gliederungen vom Staat zur Verfügung gestellten Mittel auf Bundes-und Landesebene.
+jährlich die für die Gliederungen vom Staat zur Verfügung gestellten Mittel auf Bundes- und Landesebene.
 
 #### § 11 Keine spekulativen Geschäfte
 
