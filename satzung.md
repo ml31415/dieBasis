@@ -325,7 +325,7 @@ b) zwei Stellvertretern der Vorsitzenden,
 
 c) dem Schatzmeister,
 
-d) Stellvertreter,
+d) dessen Stellvertreter,
 
 e) dem Säulenbeauftragten für Freiheit,
 
