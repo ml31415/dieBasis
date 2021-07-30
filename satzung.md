@@ -385,7 +385,7 @@ aufschiebende Wirkung bis zur nächsten Sitzung.
 Sie sind je einzeln zur Vertretung berechtigt. Parteiintern gilt, dass die Stellvertreter nur im Fall 
 der Verhinderung des Bundesvorsitzenden handlungsberechtigt sind.
 
-§ 15 Aufgaben des erweiterten Bundesvorstands
+#### § 15 Aufgaben des erweiterten Bundesvorstands
 
 (1) Der erweiterte Bundesvorstand entscheidet über alle Fragestellungen, die direkt in die Bundesländer 
 hineinwirken (vergleiche gesetzliche Kompetenzen der Bundesländer und Beteiligung des Bundesrats).
